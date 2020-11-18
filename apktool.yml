@@ -1,0 +1,26 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: CalculatorGooglePrebuilt.apk
+compressionType: false
+doNotCompress:
+- dex
+- arsc
+- META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '23'
+  targetSdkVersion: '28'
+sharedLibrary: false
+unknownFiles:
+  build-data.properties: '0'
+  stamp-cert-sha256: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.1
+versionInfo:
+  versionCode: '75013172'
+  versionName: 7.5 (213680574)

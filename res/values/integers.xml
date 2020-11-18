@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <integer name="google_play_services_version">11011000</integer>
+    <integer name="mtrl_btn_anim_delay_ms">100</integer>
+    <integer name="mtrl_btn_anim_duration_ms">100</integer>
+    <item type="integer" name="APKTOOL_DUMMY_2">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_3">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_4">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_6">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_7">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_9">false</item>
+</resources>
